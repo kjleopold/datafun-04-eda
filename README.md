@@ -2,7 +2,7 @@
 Module 4 Project 
 
 ## How to Install and Run the Project
-### Project Setup  
+### 1. Project Setup  
 - Create repo named datafun-04-eda  
 
 - Clone repo to local  
@@ -22,7 +22,7 @@ Module 4 Project
 - Create Virtual environment  
     * `py -m venv .venv`  
 
-### Repeatable Workflow  
+### 2. Repeatable Workflow  
 - Pull latest changes from GitHub if necessary  
 
 - Activate Virtual Environment  
