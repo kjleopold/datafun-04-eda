@@ -22,7 +22,7 @@ Module 4 Project Repo
     * `py -m venv .venv`  
 
 - Activated Virtual Environment  
-    * `.venv\Scripts\activate  
+    * `.venv\Scripts\activate`  
 
 - Installed Dependencies  
     * `py -m pip install --upgrade pip setuptools wheel`  
