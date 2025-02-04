@@ -38,8 +38,11 @@ Module 4 Project
     * Chose local .venv option  
 
 - Create Jupyter Notebook
+    * Enter `jupyter lab` in terminal
+    * Click Python 3 button under "Notebook" section
+    * Right click notebook tab to rename
     * `.ipynb` file type.
-    * Set the correct kernel
+    * Make sure the correct kernel is set
 
 - Update README.md  
 
