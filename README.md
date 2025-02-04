@@ -1,16 +1,16 @@
 # datafun-04-eda
 Module 4 Project 
 
-## Created a New Repository in GitHub  
-- Created repo named datafun-04-eda  
+## Project Setup  
+- Create repo named datafun-04-eda  
 
-- Cloned repo to local  
+- Clone repo to local  
     * `git clone` + URL of repo  
 
-- Created .gitignore file in root project folder  
+- Create .gitignore file in root project folder  
     * Copy/pasted template from Module 4 example  
 
-- Added requirements.txt in root project folder  
+- Add requirements.txt in root project folder  
     * Copy/pasted template from Module 4 example  
 
 - Git add-commit-push  
@@ -18,16 +18,16 @@ Module 4 Project
     * `git commit -m "Meaningful comment added"`  
     * `git push`  
 
-- Created Virtual environment  
+- Create Virtual environment  
     * `py -m venv .venv`  
 
 ## Repeatable Workflow  
 - Pull latest changes from GitHub if necessary  
 
-- Activated Virtual Environment  
+- Activate Virtual Environment  
     * `.venv\Scripts\activate`  
 
-- Installed Dependencies  
+- Install Dependencies  
     * `py -m pip install --upgrade pip setuptools wheel`  
     * `py -m pip install -r requirements.txt`  
 
@@ -36,11 +36,11 @@ Module 4 Project
     * Search "Python: Select Interpreter"  
     * Chose local .venv option  
 
-- Created Jupyter Notebook
+- Create Jupyter Notebook
     * `.ipynb` file type.
     * Set the correct kernel
 
-- Updated README.md  
+- Update README.md  
 
 - Commit changes to git
 
