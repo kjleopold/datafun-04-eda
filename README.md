@@ -1,5 +1,5 @@
 # datafun-04-eda
-Module 4 Project Repo
+Module 4 Project 
 
 ## Created a New Repository in GitHub  
 - Created repo named datafun-04-eda  
@@ -21,6 +21,9 @@ Module 4 Project Repo
 - Created Virtual environment  
     * `py -m venv .venv`  
 
+## Repeatable Workflow  
+- Pull latest changes from GitHub if necessary  
+
 - Activated Virtual Environment  
     * `.venv\Scripts\activate`  
 
@@ -33,8 +36,9 @@ Module 4 Project Repo
     * Search "Python: Select Interpreter"  
     * Chose local .venv option  
 
-- Created Jupyter File  
-    * `.ipynb` file type  
+- Created Jupyter Notebook
+    * `.ipynb` file type.
+    * Set the correct kernel
 
 - Updated README.md  
 
