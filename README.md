@@ -46,7 +46,21 @@ Module 4 Project
 
 - Update README.md  
 
-- Commit changes to git
+- Commit changes to git  
+
+### Begin EDA Project
+- Imports  
+    * `pandas as pd`  
+    * `Seaborn as sns`  
+    * `matplotlib`  
+    * `from matplotlib.axes import Axes` for Axes object  
+
+- Load Data
+    * `iris_df: pd.DataFrame = sns.load_dataset('iris')` to load dataset into pandas DataFrame  
+    * `iris_df.columns` to list columns  
+    * `iris_df.head()` to inspect the first 5 rows of the data  
+
+
 
 
 
